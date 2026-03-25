@@ -1,0 +1,4 @@
+# Vercel / Netlify ignore for frontend
+node_modules/
+dist/
+.env.local
